@@ -2,6 +2,7 @@
 ### Question
 > “By using any of the letters in the word wheel - how many different words can you make? Each word must always include the centre letter”.
 
+![Image of a Word Wheel](http://www.puzzle-magazine.com/largewordwheel.jpg)
 
 #### Output
 ```
