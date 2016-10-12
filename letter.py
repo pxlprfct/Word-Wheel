@@ -19,7 +19,7 @@ def check_letters(string):
 
 
 def print_longest(words):
-    """ Prints the longest valid word, and how many letters is is made from """
+    """ Prints the longest valid word, and how many letters long it is """
     longest = ""
 
     for word in words:
@@ -42,8 +42,7 @@ for letter in set(OPTIONAL + REQUIRED):
 
 
 valid_words.sort()
-
-print("Optional Letters - {}\tRequired Letters - {}\n"
+print("Optional Letters - {}\tRequired Letters - {}"
       .format(" ".join(OPTIONAL), " ".join(REQUIRED)))
 print("With that letter set, there are {} valid words\n"
       .format(len(valid_words)))
