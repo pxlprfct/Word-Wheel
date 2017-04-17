@@ -1,8 +1,11 @@
 # Solving a ‘Word Wheel’ with Python
+
+[Blog Post](http://ollie.work/2016/10/13/Solving-a-Word-Wheel-with-Python)
+
 ### Question
 > By using any of the letters in the ‘Word Wheel’ - How many different words can you make? Each word must always include the centre letter, and each letter can only be used as many times as it is on the wheel (In the example below - 'a' and 'e' are on the wheel twice).
 
-![Image of a Word Wheel](http://www.ollie.work/images/Word%20Wheel.png)
+![Image of a Word Wheel](http://ollie.work/images/Word%20Wheel.png)
 
 #### Example Valid Words
 - Calm
