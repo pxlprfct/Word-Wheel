@@ -5,7 +5,7 @@
 ### Question
 > By using any of the letters in the ‘Word Wheel’ - How many different words can you make? Each word must always include the centre letter, and each letter can only be used as many times as it is on the wheel (In the example below - 'a' and 'e' are on the wheel twice).
 
-![Image of a Word Wheel](http://ollie.work/images/Word%20Wheel.png)
+![Image of a Word Wheel](http://d33wubrfki0l68.cloudfront.net/9fa6f80fffdbe63b16fe900b3fb82adf8ded6414/3f1e9/images/word-wheel.png)
 
 #### Example Valid Words
 - Calm
